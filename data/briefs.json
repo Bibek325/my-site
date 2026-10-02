@@ -1,1 +1,123 @@
-
+{
+ "updated": "2026-10-02T17:10:00Z",
+ "briefs": [
+  {
+   "bsDate": "असोज १६, २०८३",
+   "date": "2026-10-02",
+   "overview": "PM Balen's office released a list of 15 achievements from the past ~1.5 months and published details of his advisory team for the first time. Foreign Minister Shishir Khanal briefed Parliament on the PM's UN General Assembly visit, and the Australian ambassador called on the PM.",
+   "quiet": false,
+   "sources": [
+    {
+     "title": "Nepal News: PM Shah shares 1.5-month achievements",
+     "url": "https://english.nepalnews.com/s/politics/from-un-address-to-digital-governance-pm-shah-shares-1-5-month-achievements/"
+    },
+    {
+     "title": "Nepal News: Evening Briefing, Oct 2",
+     "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-friday-october-2-2026/"
+    },
+    {
+     "title": "DC Nepal: Advisory team details",
+     "url": "https://www.dcnepal.com/2026/10/801782/"
+    },
+    {
+     "title": "Samaya Post: Advisory team details",
+     "url": "https://www.samayapost.com/10/478334.html"
+    },
+    {
+     "title": "Ekantipur: FM briefs Parliament on PM's US visit",
+     "url": "https://ekantipur.com/politics/2026/10/02/foreign-minister-briefs-parliament-on-prime-ministers-us-visit-42-01.html"
+    },
+    {
+     "title": "The Rising Nepal: PM Shah's UNGA address historic",
+     "url": "https://risingnepaldaily.com/news/87315"
+    },
+    {
+     "title": "Khabarhub: FM Khanal briefs House",
+     "url": "https://english.khabarhub.com/2026/02/570315/"
+    },
+    {
+     "title": "Khabarhub: HoR session prorogued",
+     "url": "https://english.khabarhub.com/2026/02/570379/"
+    },
+    {
+     "title": "Onlinekhabar English: Australian ambassador meets PM",
+     "url": "https://english.onlinekhabar.com/australia-ambassador-balen-shah.html"
+    },
+    {
+     "title": "Khabarhub: PM Shah, Australian ambassador meet",
+     "url": "https://english.khabarhub.com/2026/01/570152/"
+    }
+   ],
+   "stories": [
+    {
+     "date": "Oct 2",
+     "headline": "PM's office lists 15 achievements from the past ~1.5 months",
+     "outlets": [
+      {
+       "name": "Nepal News",
+       "url": "https://english.nepalnews.com/s/politics/from-un-address-to-digital-governance-pm-shah-shares-1-5-month-achievements/"
+      },
+      {
+       "name": "Nepal News Evening Briefing",
+       "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-friday-october-2-2026/"
+      }
+     ],
+     "summary": "At a press event at Singha Durbar, the government listed 15 achievements, including the PM's UN General Assembly speech on climate and the Bhotekoshi flood, Rs 16.28 billion collected in the PM's Disaster Relief Fund (Rs 1 billion released), and 6,837 of 17,397 'Hello Sarkar' complaints settled. Other items include performance agreements with ministry secretaries, new rules to digitize government decisions, 15 firms blacklisted by the procurement monitoring office, and 19 climate research reports."
+    },
+    {
+     "date": "Oct 2",
+     "headline": "PM's office makes advisory team public",
+     "outlets": [
+      {
+       "name": "DC Nepal",
+       "url": "https://www.dcnepal.com/2026/10/801782/"
+      },
+      {
+       "name": "Samaya Post",
+       "url": "https://www.samayapost.com/10/478334.html"
+      }
+     ],
+     "summary": "About seven months after Balen took office, his office released details of 25 advisers and staff, citing transparency. Chief political adviser Kumar Byanjankar is unpaid; political adviser Asim Shah gets minister-level benefits; health adviser Prof. Dr. Jagdish Prasad Agarwal is unpaid but reportedly gets ministerial perks; ICT adviser Vivek Mishra gets state-minister-level facilities; Sudip Dhakal advises on policy and governance. Critics including Mahesh Basnet had earlier questioned the team's size."
+    },
+    {
+     "date": "Oct 2",
+     "headline": "Foreign Minister briefs Parliament on PM's UN visit",
+     "outlets": [
+      {
+       "name": "Ekantipur",
+       "url": "https://ekantipur.com/politics/2026/10/02/foreign-minister-briefs-parliament-on-prime-ministers-us-visit-42-01.html"
+      },
+      {
+       "name": "The Rising Nepal",
+       "url": "https://risingnepaldaily.com/news/87315"
+      },
+      {
+       "name": "Khabarhub",
+       "url": "https://english.khabarhub.com/2026/02/570315/"
+      },
+      {
+       "name": "Khabarhub (session prorogued)",
+       "url": "https://english.khabarhub.com/2026/02/570379/"
+      }
+     ],
+     "summary": "Shishir Khanal told the House of Representatives the PM's UN speech was 'historic', saying he used the Bhotekoshi flood to argue for climate justice and easier access to climate finance. The PM met UN Secretary-General António Guterres and Australian PM Anthony Albanese. The House session was prorogued the same day after 145 days; during the session, opposition parties had repeatedly asked for the PM's remarks on the Nepal–India border to be removed from the record, and the Speaker kept them."
+    },
+    {
+     "date": "Oct 1",
+     "headline": "Australian ambassador meets PM Balen",
+     "outlets": [
+      {
+       "name": "Onlinekhabar English",
+       "url": "https://english.onlinekhabar.com/australia-ambassador-balen-shah.html"
+      },
+      {
+       "name": "Khabarhub",
+       "url": "https://english.khabarhub.com/2026/01/570152/"
+      }
+     ],
+     "summary": "Ambassador Simon Ernst met the PM at Singha Durbar. They discussed bilateral relations and cooperation in education, development, trade and the Nepali diaspora."
+    }
+   ]
+  }
+ ]
+}
